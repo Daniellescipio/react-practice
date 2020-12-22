@@ -1,0 +1,43 @@
+body{
+    margin : 0;
+    text-align: center;
+    align-content: center;
+}
+
+.Welcome{
+    border: solid black 2px;
+    width : 500px;
+    height : 250px;
+    margin: auto;
+    margin-top : 50px;
+}
+ .h1{
+     position: relative;
+     top: 30%;
+     color : gold;
+     text-shadow: 3px 3px red;
+     font-size: 50px;
+
+ }
+
+ .p{
+    position: relative;
+    top: -50%;
+    color : green;
+    font-size: 50px;
+ }
+
+.Summer{
+    background-image: url(https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c3VtbWVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+}
+
+.Fall{
+    background-image: url(https://images.unsplash.com/photo-1476820865390-c52aeebb9891?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFsbHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+}
+.Spring{
+    background-image: url(https://images.unsplash.com/photo-1462275646964-a0e3386b89fa?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60) ;
+
+}
+.Winter{
+    background-image: url(https://images.unsplash.com/photo-1491002052546-bf38f186af56?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8d2ludGVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+}
